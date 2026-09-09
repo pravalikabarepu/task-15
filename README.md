@@ -1,10 +1,10 @@
 # Superstore Profit Margin Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes the **profitability of the Superstore dataset** using Microsoft Power BI. The analysis focuses on profit margins across **products, categories, regions, and months** to move beyond revenue analysis and identify areas that contribute positively or negatively to profitability.
 
-## 🎯 Objective
+##  Objective
 
 * Analyze profit margin by product, region, category, and month.
 * Identify products with negative profit margins.
@@ -12,13 +12,13 @@ This project analyzes the **profitability of the Superstore dataset** using Micr
 * Track monthly changes in profit margin.
 * Support data-driven pricing and cost decisions.
 
-## 🛠️ Tools Used
+## Tools Used
 
 * **Microsoft Power BI**
 * **DAX**
 * **Superstore Dataset**
 
-## 📊 Key Metrics
+##  Key Metrics
 
 * **Total Sales:** 2.30M
 * **Total Profit:** 286.40K
@@ -36,7 +36,7 @@ DIVIDE(
 )
 ```
 
-## 📈 Dashboard Visuals
+## Dashboard Visuals
 
 1. **Margin by Product** – Bottom 10 products based on profit margin.
 2. **Margin by Category** – Compares profitability across product categories.
@@ -51,7 +51,7 @@ DIVIDE(
 * Region
 * Segment
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. The business generates **2.30M in sales and 286.40K in profit**, resulting in an overall profit margin of **12.47%**.
 2. **West region** has the strongest profit margin among the regions.
@@ -59,7 +59,7 @@ DIVIDE(
 4. Several products have **negative profit margins**, indicating potential pricing, discount, or cost issues.
 5. Monthly profit margins fluctuate throughout the year, highlighting changes in profitability over time.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 * Review products with consistently negative margins.
 * Investigate excessive discounts and pricing strategies.
